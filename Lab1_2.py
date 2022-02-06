@@ -27,4 +27,4 @@ while not fl:
 			#Вывод отсортированного массива
 			res = sorting.selection(change_list)
 			print('Сортировка выбором   : ', res)
-			
+			'''Тест редактирования'''
